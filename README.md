@@ -9,7 +9,7 @@
 ## About me :jack_o_lantern:
 - I'm computer technician and programming student :mortar_board: :computer:
 - I'm fullstack developer :woman_technologist: 
-- My favorite language it's rust lang, but currently i'm programming in javascript :computer::fire:
+- My favorite language it's rust lang, but currently i'm programming in Typescript :computer::fire:
 - I program for about 4 years. :star:
 - In my free time i watch an anime or play some game(Overwatch and Valorant, if you want to play... contact me on instagram! :smile:
 ## Social media :pushpin:
