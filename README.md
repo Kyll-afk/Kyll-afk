@@ -9,7 +9,6 @@
 ## About me :jack_o_lantern:
 - I'm computer technician and programming student :mortar_board: :computer:
 - I'm fullstack developer :woman_technologist:
-- Vim Lover 
 - My favorite language it's rust lang, but currently i'm programming in Typescript :computer::fire:
 - I program for about 4 years. :star:
 - In my free time i watch an anime or play some game(Overwatch and Valorant, if you want to play... contact me on instagram! :smile:
@@ -29,6 +28,8 @@
         <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
       </a>
     </div>
+    <br />
+ <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,java,rust,neovim" />
 
 ## My stats: :fire:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EveK0&theme=prussian&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
