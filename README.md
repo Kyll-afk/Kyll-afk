@@ -29,17 +29,9 @@ I'm a passionate developer and designer focused on creating beautiful, functiona
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,java,html,css,react,nextjs,tailwind,threejs,vite,nodejs,express,fastapi,flask,aws,vercel,heroku,docker,figma,git,insomnia" height="40" alt="Tech Stack" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+  <br><br>
   <img src="https://ghstats.dev/api/card?username=Kyll-Afk" alt="GitHub Stats" />
   <br>
   <img src="https://ghstats.dev/api/langs?username=Kyll-Afk&layout=bar" alt="Top Languages" />
