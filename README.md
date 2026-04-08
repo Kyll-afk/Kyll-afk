@@ -20,10 +20,14 @@
 ---
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,java,html,css,react,nextjs,tailwind,threejs,vite,nodejs,express,fastapi,flask,aws,vercel,heroku,docker,figma,git,insomnia" height="40" alt="Tech Stack" /></td>
-      <td><img src="https://ghstats.dev/api/card?username=Kyll-Afk" alt="GitHub Stats" /></td>
+      <td width="60%" valign="top">
+        <img src="https://skillicons.dev/icons?i=typescript,javascript,python,rust,java,html,css,react,nextjs,tailwind,threejs,vite,nodejs,express,fastapi,flask,aws,vercel,heroku,docker,figma,git,insomnia" height="40" alt="Tech Stack" />
+      </td>
+      <td width="40%" valign="top">
+        <img src="https://ghstats.dev/api/card?username=Kyll-Afk" alt="GitHub Stats" />
+      </td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://ghstats.dev/api/langs?username=Kyll-Afk&layout=bar" alt="Top Languages" /></td>
