@@ -49,12 +49,20 @@ I'm a passionate developer and designer focused on creating beautiful, functiona
 
 ## 🏆 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Portfolio](https://github.com/Kyll-Afk/portfolio) | My personal portfolio |
-| [Rust Organizer](https://github.com/Kyll-Afk/rust-organizer) | File organizer in Rust |
-| [Register Token API](https://github.com/Kyll-Afk/register-token-api) | CRUD API for token registration |
-| [Promotional Page](https://github.com/Kyll-Afk/promotional_page) | Landing page solution |
+<p align="center">
+  <a href="https://github.com/Kyll-Afk/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Project-79b8ff?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Kyll-Afk/rust-organizer">
+    <img src="https://img.shields.io/badge/Rust%20Organizer-View%20Project-f97583?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Kyll-Afk/register-token-api">
+    <img src="https://img.shields.io/badge/Register%20Token%20API-View%20Project-ffab70?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Kyll-Afk/promotional_page">
+    <img src="https://img.shields.io/badge/Promotional%20Page-View%20Project-b392f0?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
