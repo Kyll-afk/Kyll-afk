@@ -8,17 +8,7 @@
 
 ---
 
-## About Me
-
-I'm a passionate developer and designer focused on creating beautiful, functional web experiences. I love bringing ideas to life through code and design.
-
-- 💻 Building with TypeScript, React, and Next.js
-- 🎨 Creating stunning UIs with attention to detail
-- 🚀 Always learning and exploring new technologies
-
----
-
-## 🔗 Connect with me
+## Connect with me
 
 <p align="left">
 <a href="https://behance.net/kaylanesantos3" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
@@ -39,7 +29,7 @@ I'm a passionate developer and designer focused on creating beautiful, functiona
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/Kyll-Afk/portfolio">
@@ -62,5 +52,5 @@ I'm a passionate developer and designer focused on creating beautiful, functiona
   <br>
   <img src="https://komarev.com/ghpvc/?username=Kyll-Afk&style=flat-square&color=888888" alt="Profile Views"/>
   <br><br>
-  Thanks for visiting! 😄
+  Thanks for visiting!
 </div>
